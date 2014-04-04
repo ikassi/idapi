@@ -1,0 +1,43 @@
+Coursework Three Results by cem13 and ik1410
+
+MDLSize for HepatitisC
+3972.430238
+
+MDLAccuracy for HepatitisC
+-23672.1810271
+
+MDLScore for HepatitisC
+27644.6112651
+
+Score of the best network with one arc removed
+25916.7016818
+Best network with arc removed
+[[0], [1], [2, 0], [3, 4], [4, 1], [5, 4], [6, 1], [7, 0], [8, 7]]
+
+MDLSize for HepatitisC
+3972.430238
+
+MDLAccuracy for HepatitisC
+-23672.1810271
+
+MDLScore for HepatitisC
+27644.6112651
+
+Score of the best network with one arc removed
+25916.7016818
+Best network with arc removed
+[[0], [1], [2, 0], [3, 4], [4, 1], [5, 4], [6, 1], [7, 0], [8, 7]]
+
+MDLSize for HepatitisC
+3972.430238
+
+MDLAccuracy for HepatitisC
+-23672.1810271
+
+MDLScore for HepatitisC
+27644.6112651
+
+Score of the best network with one arc removed
+25916.7016818
+Best network with arc removed
+[[0], [1], [2, 0], [3, 4], [4, 1], [5, 4], [6, 1], [7, 0], [8, 7]]
